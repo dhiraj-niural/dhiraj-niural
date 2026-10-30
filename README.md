@@ -1,5 +1,3 @@
-# Dhiraj Khanal
-
 I build.
 
 ### AI engineering
