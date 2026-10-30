@@ -1,8 +1,6 @@
 # Dhiraj Khanal
 
-I build AI agents, test where they break, and work on making them useful.
-
-Head of AI at Niural. Previously built Lily at Instalily. Physics and computer science at Brown. Still very into physics and math.
+I build.
 
 ### AI engineering
 
