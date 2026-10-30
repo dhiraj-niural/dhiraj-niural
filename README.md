@@ -14,7 +14,7 @@ For when a speed test looks fine but your calls keep freezing. A Python tool tha
 
 **[The Last Light](https://github.com/dhiraj-niural/quantum-coherence-lab)**
 
-A small Halloween game about quantum measurement. [Play it](https://quantum-coherence-game.hanczvs.chatgpt.site).
+A small Halloween game about quantum measurement. [Play it](https://dhiraj-niural.github.io/quantum-coherence-lab/).
 
 ### Open-source investigations
 
